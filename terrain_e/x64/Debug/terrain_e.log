@@ -1,0 +1,582 @@
+﻿  Main.cpp
+  mountain.cpp
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\mountain.cpp(145,83): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\mountain.cpp(153,83): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\mountain.cpp(173,38): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\mountain.cpp(174,38): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\mountain.cpp(175,39): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  skybox.cpp
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(47,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(48,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(53,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(54,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(59,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(60,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(61,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(65,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(66,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(67,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(72,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(73,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(78,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(79,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(84,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(85,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(86,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(90,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(91,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(92,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(98,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(99,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(104,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(105,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(110,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(111,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(112,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(116,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(117,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(118,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(123,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(124,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(129,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(130,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(135,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(136,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(137,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(141,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(142,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(143,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(149,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(150,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(155,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(156,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(161,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(162,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(163,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(167,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(168,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(169,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(174,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(175,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(180,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(181,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(186,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(187,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(188,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(192,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(193,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(194,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(200,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(201,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(206,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(207,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(212,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(213,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(214,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(218,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(219,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(220,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(225,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(226,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(231,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(232,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(237,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(238,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(239,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(243,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(244,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(245,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(251,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(252,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(253,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(257,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(258,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(259,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(263,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(264,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(265,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(269,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(270,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(271,40): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(276,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(277,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(278,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(282,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(283,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(284,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(288,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(289,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(290,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(294,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(295,27): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(296,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\skybox.cpp(387,83): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  water.cpp
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(89,55): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(90,49): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(91,49): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(92,49): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(93,49): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(94,43): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(178,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(179,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(205,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(206,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(225,83): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(244,87): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(306,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\water.cpp(307,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  terrain_e.vcxproj -> D:\UM\exchg\course\计算机图形学基础\exercise\assignment\A\Ques6\terrain_e\x64\Debug\terrain_e.exe
